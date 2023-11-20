@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'DockerAgent'
+  name: 'Docker Agent - Linux'
 
 variables:
   solution: '**/*.sln'
