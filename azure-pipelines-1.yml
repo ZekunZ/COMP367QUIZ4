@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'DockerAgent'
+  name: 'MacAgent'
 
 variables:
   buildConfiguration: 'Release'
